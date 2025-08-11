@@ -1,2 +1,2 @@
-# Projects
-Self development simple projects
+# Countdown-Timer
+Countdown for your kids in rainbow mode
